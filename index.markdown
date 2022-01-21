@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: Home
-layout: home
+layout: single
 ---
 
 Questo è il sito di Nikhil Jha. Work in progress ;)
