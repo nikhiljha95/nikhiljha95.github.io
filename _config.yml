@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ciao, sono Nikhil!
+title: Nikhil Jha
 email: nikjha95 [at] gmail [dot] com
 description: >- # this means to ignore newlines until "baseurl:"
-  Piacere di trovarti qui. Sono un dottorando in Ingegneria Elettronica e delle Telecomunicazioni presso il Politecnico di Torino,
-  e un giornalista freelance (patentino 167670).
+  Dottorando in Ingegneria Elettronica e delle Telecomunicazioni presso il Politecnico di Torino
+  e giornalista freelance (patentino 167670).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @nikjha13
+twitter_username: nikjha13
 
 # Build settings
 theme: minima
