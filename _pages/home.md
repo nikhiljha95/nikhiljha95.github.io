@@ -6,12 +6,10 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /images/mare.jpg
-  actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-excerpt: "Sono Nikhil Jha, dottorando in ingegneria e giornalista freelance. Qui potrai dare un occhio ai miei progetti, e trovare dove contattarmi."
+excerpt: "Sono Nikhil Jha, dottorando in ingegneria e giornalista freelance, nato nel 1995 e cresciuto a Torino. Qui potrai dare un occhio ai miei progetti, e trovare dove contattarmi."
 intro: 
-  - excerpt: 'Nato nel 1995, cresciuto a Torino.'
+  - image_path: images/me.png
+    excerpt: '*Yep, that''s me.*'
 feature_row:
   - image_path: images/Forfeit.png
     alt: "Forfeit newsletter logo"
@@ -36,6 +34,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="right" %}
 
 {% include feature_row %}
