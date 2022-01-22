@@ -38,11 +38,14 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-include-cache
+  
+include: ["_pages"]
+
 footer:
   links:
     - label: ""
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/nikjha13"
+      url: "https://twitter.com/nikjiljha13"
     - label: ""
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/nikjha13"
