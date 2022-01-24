@@ -1,0 +1,9 @@
+main:
+  - title: "Su di me"
+    url: /about/
+  - title: "Newsletter"
+    url: /newsletter/
+  - title: "Articoli"
+    url: /articles/
+  - title: "Podcast"
+    url: /podcast/
