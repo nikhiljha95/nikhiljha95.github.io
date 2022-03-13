@@ -24,14 +24,14 @@ I migliori articoli, altri frammenti dalla settimana sportiva, un breve prologo 
 L'obiettivo è quello di raccontare lo sport attraverso il suo stesso racconto:
 dai nerd della tattica e delle statistiche alle riflessioni che portano da un campo da calcio (o da tennis, o da cricket) ai massimi sistemi.
 
-## A chi ti ispiri?
+## A cosa assomiglia?
 
 Provo a imitare la struttura e la semantica delle tante newsletter che leggo in giro. I riferimenti espliciti sono questi, ma tanti altri esistono, più o meno in superficie:
 
 - **Stili di Gioco**, la - ahimè - defunta newsletter di [l'Ultimo Uomo](https://www.ultimouomo.com/);
 - **Ralenti**, una selezione di articoli, foto e video interessanti della settimana a cura di [Rivista Undici](https://www.rivistaundici.com/);
 - [**Link Molto Belli**, la newsletter di Pietro Minto](https://linkmoltobelli.substack.com/), una di quelle a cui sono iscritto da più tempo.
-Con lo sport non c'entra, ma dimostra la potenza e l'interesse naturalmente nascoste nell'iper-testo.
+Con lo sport non c'entra, ma dimostra la potenza e l'interesse naturalmente nascosti nel formato iper-testuale.
 
 ## Dove la trovo?
 

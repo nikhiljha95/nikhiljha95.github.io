@@ -44,6 +44,9 @@ include: ["_pages"]
 footer:
   links:
     - label: ""
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/nikhiljha"
+    - label: ""
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/nikjiljha13"
     - label: ""

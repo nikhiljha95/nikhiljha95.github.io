@@ -14,7 +14,7 @@ Probabilmente fare podcast mi piace più di quanto sia effettivamente bravo. Ma 
 {% include figure image_path="/images/podcast.jpeg" alt="tn radio thumbnail" %}
 
 Dal marzo 2019 conduco insieme a Gualtiero Lasala e Federico Bosio TN Radio, per Toro News: un podcast settimanale a tre voci prodotto all'interno di Toro News, il più importante sito di notizie sul Torino Football Club.
-L'ambizione era quella di creare un luogo in cui si potesse parlare di Torino con allegria e spensieratezza, ma anche passione e - si spera - competenza.
+L'ambizione era quella di creare un luogo in cui si potesse parlare di Torino con allegria e spensieratezza, ma anche passione e - si spera - un briciolo, ma giusto un briciolo di competenza.
 Inizialmente podcast vero e proprio, dall'aprile 2021 TN Radio si è spostato in diretta su Twitch, la cui registrazione audio è diventato il podcast vero e proprio.
 
 All'interno di TN Radio abbiamo chiacchierato molto, ma abbiamo provato pure a sperimentare altri format, soprattutto con lo scopo di misurarci con altri metodi di racconto:
