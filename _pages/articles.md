@@ -9,7 +9,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /images/writing.jpg
-excerpt: Ogni tanto scrivo, principalmente di sport - e cioè, alla fine, un po' di tutto il resto. Qui alcune dei pezzi a cui sono più affezionato, e dove trovare gli altri.
+excerpt: Ogni tanto scrivo, principalmente di sport - e cioè, alla fine, un po' di tutto il resto. Qui alcuni dei pezzi a cui sono più affezionato, e dove trovare gli altri.
 feature_row_1:
   - image_path: "https://ultimouomo.imgix.net/wp-content/uploads/2022/04/26112002/montecarlocop-840x401.png"
     title: "La vita è bella al Monte Carlo Country Club"
@@ -40,3 +40,4 @@ feature_row_1:
 {% include feature_row id="feature_row_1"%}
 
 [Qui](https://www.ultimouomo.com/author/nikhil-jha/) puoi trovare tutti i miei articoli per l'Ultimo Uomo.
+[Qui](https://nikjha.medium.com/) invece quello che ho scritto su Medium.

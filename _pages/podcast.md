@@ -4,18 +4,25 @@
 
 title: Podcast
 permalink: /podcast/
-layout: single
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /images/podcast.jpg
 ---
 
-Probabilmente fare podcast mi piace più di quanto sia effettivamente bravo. Ma lo ignoro e continuo a farli.
+Fare podcast mi piace. Sono bravo? Non lo so, ma come il famoso calabrone continuo lo stesso.
 
 ## TN Radio
 
-{% include figure image_path="/images/podcast.jpeg" alt="tn radio thumbnail" %}
-
 Dal marzo 2019 conduco insieme a Gualtiero Lasala e Federico Bosio TN Radio, per Toro News: un podcast settimanale a tre voci prodotto all'interno di Toro News, il più importante sito di notizie sul Torino Football Club.
+
+![image-right](/images/tnradio-25.jpg){: .align-right}
+
 L'ambizione era quella di creare un luogo in cui si potesse parlare di Torino con allegria e spensieratezza, ma anche passione e - si spera - un briciolo, ma giusto un briciolo di competenza.
-Inizialmente podcast vero e proprio, dall'aprile 2021 TN Radio si è spostato in diretta su Twitch, la cui registrazione audio è diventato il podcast vero e proprio.
+
+
+Inizialmente registrato offline, dall'aprile 2021 TN Radio è diventata una trasmissione in diretta su Twitch, la cui registrazione audio è diventato il podcast vero e proprio.
 
 All'interno di TN Radio abbiamo chiacchierato molto, ma abbiamo provato pure a sperimentare altri format, soprattutto con lo scopo di misurarci con altri metodi di racconto:
 - Abbiamo sperimentato le TN Radio Stories, brevi estratti del mondo granata; ([qui](https://open.spotify.com/episode/31CaOobjyZ5EMcEyNKyLgU?si=5FcPwmGWQo-lq17_K27paQ) l'episodio dedicato a Emiliano Moretti, [qui](https://open.spotify.com/episode/4dNIVz5044oL3bIBuyZMaL?si=kAvLgBySQQyoqAdXlCLx_A) quello dedicato a Tony Vigato)
@@ -23,4 +30,4 @@ All'interno di TN Radio abbiamo chiacchierato molto, ma abbiamo provato pure a s
 - Interviste a tanti ospiti interessanti e tifosi d'eccezione, come quelle a [Willie Peyote](https://www.youtube.com/watch?v=XGo14Q6JsCE) o a [Gian Piero Ventura](https://www.youtube.com/watch?v=SdOpZ8gKesg).
 
 ## Altro
-Work in progress 🚧
+Tante idee, magari un giorno...

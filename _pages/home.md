@@ -9,9 +9,9 @@ header:
   actions:
    - label: "Su di me"
      url: "about"
-excerpt: "Ciao, sono contento di trovarti qui. Io sono Nikhil Jha, dottorando in ingegneria e giornalista freelance. Su questo sito potrai dare un occhio ai miei progetti e alle mie esperienze, e trovare dove contattarmi."
+excerpt: "Ciao, sei sul sito di Nikhil Jha. Piacere di conoscerti."
 feature_row:
-  - image_path: images/Forfeit.png
+  - image_path: images/thumbnail-15.jpg
     alt: "Forfeit newsletter logo"
     title: "Newsletter"
     excerpt: "**Forfeit**, una newsletter di attualità sportiva e del suo racconto."
@@ -26,12 +26,27 @@ feature_row:
     url: "articles"
     btn_label: "Leggi 📃"
     btn_class: "btn--primary"
-  - image_path: /images/podcast.jpeg
+  - image_path: /images/tnradio-25.jpg
     title: "Podcast"
     excerpt: "Conduco TN Radio, ma ho tanti altri progetti."
     url: "podcast"
     btn_label: "Ascolta 🎧"
     btn_class: "btn--primary"
+feature_row_2:
+  - image_path: images/me.png
+    excerpt: "Ciao! Questo qui sono io. Ma la parte interessante è dopo"
 ---
 
+![image-right](/images/me-50.jpg){: .align-right}
+Ciao! Questo qui a destra sono io, solo un po' più abbronzato del solito.
+
+Mi chiamo Nikhil, dottorando sui temi dell'analisi *privacy-preserving* dei dati al Politecnico di Torino e giornalista freelance. Fuori dall'università parlo e scrivo principalmente di sport, che poi alla fine non è mai solo sport.
+
+Su questo piccolo sito puoi esplorare un po' quello che faccio, e cioè in fondo cercare le storie che ci tengono assieme, sotto forma di articolo, newsletter o podcast. Quindi, in un certo modo, creare cultura. Perché come diceva Antonio Gramsci:
+
+*"Ha cultura chi ha coscienza di sé e del tutto, chi sente la relazione con tutti gli altri esseri".*
+
+
+
+# I miei progetti
 {% include feature_row %}

@@ -41,6 +41,24 @@ plugins:
   
 include: ["_pages"]
 
+author:
+  name: "Nikhil Jha"
+  avatar: "/images/me.png"
+  bio: "Questo è il mio faccione. E qui dove contattarmi, ma non sentirti in dovere."
+  links:
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/nikhiljha"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/nikhiljha13"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/nikjha13"
+#    - label: "Medium"
+#      icon: "fab fa-medium"
+#      url: "https://nikjha.medium.com/"
+
 footer:
   links:
     - label: ""
