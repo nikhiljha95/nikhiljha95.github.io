@@ -43,7 +43,7 @@ include: ["_pages"]
 
 author:
   name: "Nikhil Jha"
-  avatar: "/images/me.png"
+  avatar: "/images/me-50.jpg"
   bio: "Questo è il mio faccione. E qui dove contattarmi, ma non sentirti in dovere."
   links:
     - label: "Telegram"

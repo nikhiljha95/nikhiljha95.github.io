@@ -11,13 +11,6 @@ header:
      url: "about"
 excerpt: "Ciao, sei sul sito di Nikhil Jha. Piacere di conoscerti."
 feature_row:
-  - image_path: images/thumbnail-15.jpg
-    alt: "Forfeit newsletter logo"
-    title: "Newsletter"
-    excerpt: "**Forfeit**, una newsletter di attualità sportiva e del suo racconto."
-    url: "newsletter"
-    btn_label: "Scopri 📬"
-    btn_class: "btn--primary"
   - image_path: /images/frisbee.jpg
     image_caption: "Illustrazione di [Giorgio Mozzorecchia](https://www.instagram.com/giommoz/)"
     alt: "frisbee"
@@ -25,6 +18,13 @@ feature_row:
     excerpt: "Una selezione di miei articoli che trovate in giro."
     url: "articles"
     btn_label: "Leggi 📃"
+    btn_class: "btn--primary"
+  - image_path: images/thumbnail-15.jpg
+    alt: "Forfeit newsletter logo"
+    title: "Newsletter"
+    excerpt: "**Forfeit**, una newsletter sulle storie dello sport."
+    url: "newsletter"
+    btn_label: "Scopri 📬"
     btn_class: "btn--primary"
   - image_path: /images/tnradio-25.jpg
     title: "Podcast"
@@ -38,7 +38,7 @@ feature_row_2:
 ---
 
 ![image-right](/images/me-50.jpg){: .align-right}
-Ciao! Questo qui a destra sono io, solo un po' più abbronzato del solito.
+Ciao! Questo qui sono io, solo un po' più abbronzato del solito.
 
 Mi chiamo Nikhil, dottorando sui temi dell'analisi *privacy-preserving* dei dati al Politecnico di Torino e giornalista freelance. Fuori dall'università parlo e scrivo principalmente di sport, che poi alla fine non è mai solo sport.
 
