@@ -40,4 +40,7 @@ feature_row_1:
 {% include feature_row id="feature_row_1"%}
 
 [Qui](https://www.ultimouomo.com/author/nikhil-jha/) puoi trovare tutti i miei articoli per l'Ultimo Uomo.
+
 [Qui](https://nikjha.medium.com/) invece quello che ho scritto su Medium.
+
+Infine, [qui](https://hypercritic.org/author/nikjha/) i miei articoli per Hypercritic (in inglese).

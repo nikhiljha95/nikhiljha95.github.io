@@ -14,7 +14,7 @@ excerpt: Qui ti presento Forfeit, la mia newsletter.
 
 Lo sport non è mai solo sport. È tutto quello che ci mettiamo dentro: lo sforzo di chi lo pratica, la passione di chi vi assiste.
 
-![image-left](/images/thumbnail-15.jpg){: .align-left}
+![image-left](/images/thumbnail.png){: .align-left}
 
 In quanto prodotto degli uomini, lo sport è pieno di storie, e il mondo di scrittori che le annodano e raccontano.
 

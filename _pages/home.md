@@ -19,7 +19,7 @@ feature_row:
     url: "articles"
     btn_label: "Leggi 📃"
     btn_class: "btn--primary"
-  - image_path: images/thumbnail-15.jpg
+  - image_path: /images/thumbnail.png
     alt: "Forfeit newsletter logo"
     title: "Newsletter"
     excerpt: "**Forfeit**, una newsletter sulle storie dello sport."
