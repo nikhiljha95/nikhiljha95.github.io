@@ -1,5 +1,5 @@
 ---
-title: "Ué!"
+title: "Ciao! Io sono Nikhil Jha"
 layout: splash
 permalink: /
 header:
@@ -9,44 +9,37 @@ header:
   actions:
    - label: "Su di me"
      url: "about"
-excerpt: "Ciao, sei sul sito di Nikhil Jha. Piacere di conoscerti."
-feature_row:
+excerpt: "Piacere di conoscerti."
+feature_row_1:
   - image_path: /images/frisbee.jpg
     image_caption: "Illustrazione di [Giorgio Mozzorecchia](https://www.instagram.com/giommoz/)"
     alt: "frisbee"
-    title: "Articoli"
+    title: "Scrittura"
     excerpt: "Una selezione di miei articoli che trovate in giro."
-    url: "articles"
+    url: "scrittura"
     btn_label: "Leggi 📃"
     btn_class: "btn--primary"
-  - image_path: /images/thumbnail.png
-    alt: "Forfeit newsletter logo"
-    title: "Newsletter"
-    excerpt: "**Forfeit**, una newsletter sulle storie dello sport."
-    url: "newsletter"
-    btn_label: "Scopri 📬"
-    btn_class: "btn--primary"
-  - image_path: /images/tnradio-25.jpg
-    title: "Podcast"
-    excerpt: "Conduco TN Radio, ma ho tanti altri progetti."
-    url: "podcast"
-    btn_label: "Ascolta 🎧"
-    btn_class: "btn--primary"
 feature_row_2:
-  - image_path: images/me.png
-    excerpt: "Ciao! Questo qui sono io. Ma la parte interessante è dopo"
+  - image_path: /images/topics-api.png
+    alt: "topics api"
+    title: "Accademia"
+    excerpt: "La mia ricerca scientifica."
+    url: "accademia"
+    btn_label: "Esplora 🔬"
+    btn_class: "btn--primary"
 ---
 
 ![image-right](/images/me-50.jpg){: .align-right}
 Ciao! Questo qui sono io, solo un po' più abbronzato del solito.
 
-Mi chiamo Nikhil, dottorando sui temi dell'analisi *privacy-preserving* dei dati al Politecnico di Torino e giornalista freelance. Fuori dall'università parlo e scrivo principalmente di sport, che poi alla fine non è mai solo sport.
+Mi chiamo Nikhil, e nella vita faccio principalmente due cose: ricerco al Politecnico di Torino, e scrivo.
 
-Su questo piccolo sito puoi esplorare un po' quello che faccio, e cioè in fondo cercare le storie che ci tengono assieme, sotto forma di articolo, newsletter o podcast. Quindi, in un certo modo, creare cultura. Perché come diceva Antonio Gramsci:
+Al momento sono assegnista di ricerca al Politecnico di Torino, dove nel 2024 ho ottenuto il dottorato di ricerca con una tesi dal titolo "Privacy on the Web: Algorithms, Tools and Measurements".
 
-*"Ha cultura chi ha coscienza di sé e del tutto, chi sente la relazione con tutti gli altri esseri".*
+Sul versante creativo, invece, ho ottenuto nel 2025 il Master Daimon in Tecniche della Narrazione alla Scuola Holden. Dal 2018 sono iscritto come pubblicista all'albo dei giornalisti del Piemonte.
 
 
 
 # I miei progetti
-{% include feature_row %}
+{% include feature_row id="feature_row_1" type="right"%}
+{% include feature_row id="feature_row_2" type="left"%}

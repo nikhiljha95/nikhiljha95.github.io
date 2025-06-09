@@ -22,8 +22,7 @@ title: Nikhil Jha
 title_separator: "|"
 email: nikjha95 [at] gmail [dot] com
 description: >- # this means to ignore newlines until "baseurl:"
-  Dottorando in Ingegneria Elettronica e delle Telecomunicazioni presso il Politecnico di Torino
-  e giornalista freelance (patentino 167670).
+  Sono Nikhil Jha, ricercatore presso il Politecnico di Torino, giornalista (patentino 167670) e scrittore.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nikjha13
@@ -55,9 +54,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/nikjha13"
-#    - label: "Medium"
-#      icon: "fab fa-medium"
-#      url: "https://nikjha.medium.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/nikhil-jha-/"
 
 footer:
   links:
